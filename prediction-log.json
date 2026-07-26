@@ -17752,7 +17752,7 @@
     },
     {
       "date": "2026-05-19",
-      "predictedAt": "2026-07-26T02:00:29.026Z",
+      "predictedAt": "2026-07-26T10:02:59.423Z",
       "version": "v9.6",
       "games": [
         {
@@ -17763,9 +17763,9 @@
           "awaySP": "테일러",
           "homeSP": "최민석",
           "predWinner": "두산",
-          "predHomePct": 51.5,
-          "predAwayPct": 44.2,
-          "avgHome": 3.2,
+          "predHomePct": 50.9,
+          "predAwayPct": 45.9,
+          "avgHome": 3,
           "avgAway": 2.9,
           "confidence": "★",
           "factors": {
@@ -17834,10 +17834,10 @@
           "awaySP": "톨허스트",
           "homeSP": "올러",
           "predWinner": "KIA",
-          "predHomePct": 59.5,
-          "predAwayPct": 39.3,
+          "predHomePct": 60.6,
+          "predAwayPct": 38.1,
           "avgHome": 5.6,
-          "avgAway": 4.3,
+          "avgAway": 4.1,
           "confidence": "★★",
           "factors": {
             "homeRating": 48,
@@ -17904,11 +17904,11 @@
           "time": "18:30",
           "awaySP": "타케다",
           "homeSP": "박정훈",
-          "predWinner": "키움",
-          "predHomePct": 49.1,
-          "predAwayPct": 49,
-          "avgHome": 3.8,
-          "avgAway": 4.1,
+          "predWinner": "SSG",
+          "predHomePct": 47.6,
+          "predAwayPct": 49.7,
+          "avgHome": 3.7,
+          "avgAway": 4.2,
           "confidence": "★",
           "factors": {
             "homeRating": 41,
@@ -17962,7 +17962,7 @@
                 "desc": "키움 34승60패 vs SSG 36승56패"
               }
             ],
-            "narrative": "박정훈(ERA 3.91) vs 타케다(4.04), 선발 대결에서 키움 우위. 박빙으로 이변 가능."
+            "narrative": "SSG의 상대전적 우위 (키움 홈 승률 35%). 박빙으로 이변 가능."
           },
           "actualHome": null,
           "actualAway": null,
@@ -17976,9 +17976,9 @@
           "awaySP": "비슬리",
           "homeSP": "에르난데스",
           "predWinner": "한화",
-          "predHomePct": 56.5,
-          "predAwayPct": 41.2,
-          "avgHome": 6.3,
+          "predHomePct": 59,
+          "predAwayPct": 40.2,
+          "avgHome": 6.5,
           "avgAway": 5.3,
           "confidence": "★★",
           "factors": {
@@ -18047,11 +18047,11 @@
           "awaySP": "보쉴리",
           "homeSP": "원태인",
           "predWinner": "KT",
-          "predHomePct": 46.2,
-          "predAwayPct": 52,
-          "avgHome": 3.9,
+          "predHomePct": 42.7,
+          "predAwayPct": 55.8,
+          "avgHome": 3.7,
           "avgAway": 4.8,
-          "confidence": "★",
+          "confidence": "★★",
           "factors": {
             "homeRating": 58,
             "awayRating": 59,
@@ -18104,7 +18104,7 @@
                 "desc": "삼성 ? / KT ?"
               }
             ],
-            "narrative": "보쉴리(ERA 2.8) vs 원태인(3.24), 선발 대결에서 KT 우위. 박빙으로 이변 가능."
+            "narrative": "보쉴리(ERA 2.8) vs 원태인(3.24), 선발 대결에서 KT 우위."
           },
           "actualHome": null,
           "actualAway": null,
