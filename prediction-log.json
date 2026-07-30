@@ -17752,7 +17752,7 @@
     },
     {
       "date": "2026-05-19",
-      "predictedAt": "2026-07-30T01:44:45.407Z",
+      "predictedAt": "2026-07-30T10:24:52.186Z",
       "version": "v9.6",
       "games": [
         {
@@ -17763,10 +17763,10 @@
           "awaySP": "테일러",
           "homeSP": "최민석",
           "predWinner": "두산",
-          "predHomePct": 54.5,
-          "predAwayPct": 41.8,
-          "avgHome": 3.1,
-          "avgAway": 2.5,
+          "predHomePct": 54.2,
+          "predAwayPct": 42.7,
+          "avgHome": 3,
+          "avgAway": 2.6,
           "confidence": "★",
           "factors": {
             "homeRating": 41,
@@ -17834,9 +17834,9 @@
           "awaySP": "톨허스트",
           "homeSP": "올러",
           "predWinner": "KIA",
-          "predHomePct": 59.3,
-          "predAwayPct": 40.5,
-          "avgHome": 5.6,
+          "predHomePct": 59.9,
+          "predAwayPct": 39.2,
+          "avgHome": 5.8,
           "avgAway": 4.3,
           "confidence": "★★",
           "factors": {
@@ -17905,9 +17905,9 @@
           "awaySP": "타케다",
           "homeSP": "박정훈",
           "predWinner": "SSG",
-          "predHomePct": 45.2,
-          "predAwayPct": 51.2,
-          "avgHome": 3.6,
+          "predHomePct": 47.1,
+          "predAwayPct": 51,
+          "avgHome": 3.7,
           "avgAway": 4.2,
           "confidence": "★",
           "factors": {
@@ -17976,10 +17976,10 @@
           "awaySP": "비슬리",
           "homeSP": "에르난데스",
           "predWinner": "한화",
-          "predHomePct": 55.9,
-          "predAwayPct": 42.3,
-          "avgHome": 6.3,
-          "avgAway": 5.4,
+          "predHomePct": 56.2,
+          "predAwayPct": 42.6,
+          "avgHome": 6.2,
+          "avgAway": 5.3,
           "confidence": "★★",
           "factors": {
             "homeRating": 47,
@@ -18047,11 +18047,11 @@
           "awaySP": "보쉴리",
           "homeSP": "원태인",
           "predWinner": "KT",
-          "predHomePct": 43.5,
-          "predAwayPct": 55,
+          "predHomePct": 43.9,
+          "predAwayPct": 54.2,
           "avgHome": 4.2,
           "avgAway": 5.4,
-          "confidence": "★★",
+          "confidence": "★",
           "factors": {
             "homeRating": 55,
             "awayRating": 56,
@@ -18104,7 +18104,7 @@
                 "desc": "삼성 ? / KT ?"
               }
             ],
-            "narrative": "보쉴리(ERA 2.8) vs 원태인(3.24), 선발 대결에서 KT 우위."
+            "narrative": "보쉴리(ERA 2.8) vs 원태인(3.24), 선발 대결에서 KT 우위. 박빙으로 이변 가능."
           },
           "actualHome": null,
           "actualAway": null,
