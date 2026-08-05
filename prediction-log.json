@@ -17752,7 +17752,7 @@
     },
     {
       "date": "2026-05-19",
-      "predictedAt": "2026-08-04T10:39:31.502Z",
+      "predictedAt": "2026-08-05T01:49:22.297Z",
       "version": "v9.6",
       "games": [
         {
@@ -17763,10 +17763,10 @@
           "awaySP": "테일러",
           "homeSP": "최민석",
           "predWinner": "두산",
-          "predHomePct": 53.2,
-          "predAwayPct": 42.9,
+          "predHomePct": 52.2,
+          "predAwayPct": 44,
           "avgHome": 3.1,
-          "avgAway": 2.5,
+          "avgAway": 2.7,
           "confidence": "★",
           "factors": {
             "homeRating": 44,
@@ -17834,10 +17834,10 @@
           "awaySP": "톨허스트",
           "homeSP": "올러",
           "predWinner": "KIA",
-          "predHomePct": 60.7,
-          "predAwayPct": 38.2,
+          "predHomePct": 61.8,
+          "predAwayPct": 36.4,
           "avgHome": 5.9,
-          "avgAway": 4.4,
+          "avgAway": 4.2,
           "confidence": "★★",
           "factors": {
             "homeRating": 46,
@@ -17905,10 +17905,10 @@
           "awaySP": "타케다",
           "homeSP": "박정훈",
           "predWinner": "SSG",
-          "predHomePct": 47,
-          "predAwayPct": 50.1,
-          "avgHome": 3.7,
-          "avgAway": 4.1,
+          "predHomePct": 48.3,
+          "predAwayPct": 49.3,
+          "avgHome": 3.6,
+          "avgAway": 4,
           "confidence": "★",
           "factors": {
             "homeRating": 40,
@@ -17976,13 +17976,13 @@
           "awaySP": "비슬리",
           "homeSP": "에르난데스",
           "predWinner": "롯데",
-          "predHomePct": 46.3,
-          "predAwayPct": 51.5,
+          "predHomePct": 47.3,
+          "predAwayPct": 50.6,
           "avgHome": 4.9,
-          "avgAway": 5.4,
+          "avgAway": 5.5,
           "confidence": "★",
           "factors": {
-            "homeRating": 44,
+            "homeRating": 43,
             "awayRating": 40,
             "homeSP": {
               "name": "에르난데스",
@@ -18015,7 +18015,7 @@
                 "key": "rating",
                 "label": "팀 전력",
                 "edge": "home",
-                "impact": 0.008,
+                "impact": 0.006,
                 "desc": "한화 46승49패 vs 롯데 43승54패"
               },
               {
@@ -18047,13 +18047,13 @@
           "awaySP": "보쉴리",
           "homeSP": "원태인",
           "predWinner": "KT",
-          "predHomePct": 44.1,
-          "predAwayPct": 53.7,
+          "predHomePct": 43.5,
+          "predAwayPct": 54.4,
           "avgHome": 4.2,
-          "avgAway": 5.3,
+          "avgAway": 5.2,
           "confidence": "★",
           "factors": {
-            "homeRating": 54,
+            "homeRating": 53,
             "awayRating": 60,
             "homeSP": {
               "name": "원태인",
@@ -18086,7 +18086,7 @@
                 "key": "rating",
                 "label": "팀 전력",
                 "edge": "away",
-                "impact": 0.012,
+                "impact": 0.014,
                 "desc": "삼성 59승38패 vs KT 59승36패"
               },
               {
