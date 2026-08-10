@@ -17752,7 +17752,7 @@
     },
     {
       "date": "2026-05-19",
-      "predictedAt": "2026-08-10T01:06:37.131Z",
+      "predictedAt": "2026-08-10T09:21:31.798Z",
       "version": "v9.6",
       "games": [
         {
@@ -17763,10 +17763,10 @@
           "awaySP": "테일러",
           "homeSP": "최민석",
           "predWinner": "두산",
-          "predHomePct": 53.5,
-          "predAwayPct": 42.4,
+          "predHomePct": 53.8,
+          "predAwayPct": 40.7,
           "avgHome": 3,
-          "avgAway": 2.6,
+          "avgAway": 2.5,
           "confidence": "★",
           "factors": {
             "homeRating": 44,
@@ -17834,10 +17834,10 @@
           "awaySP": "톨허스트",
           "homeSP": "올러",
           "predWinner": "KIA",
-          "predHomePct": 61,
-          "predAwayPct": 37.7,
-          "avgHome": 5.9,
-          "avgAway": 4.4,
+          "predHomePct": 61.1,
+          "predAwayPct": 37.5,
+          "avgHome": 6,
+          "avgAway": 4.3,
           "confidence": "★★",
           "factors": {
             "homeRating": 46,
@@ -17904,11 +17904,11 @@
           "time": "18:30",
           "awaySP": "타케다",
           "homeSP": "박정훈",
-          "predWinner": "SSG",
-          "predHomePct": 46.9,
-          "predAwayPct": 49.2,
-          "avgHome": 3.6,
-          "avgAway": 4,
+          "predWinner": "키움",
+          "predHomePct": 49.7,
+          "predAwayPct": 48.2,
+          "avgHome": 3.8,
+          "avgAway": 3.8,
           "confidence": "★",
           "factors": {
             "homeRating": 40,
@@ -17962,7 +17962,7 @@
                 "desc": "키움 38승63패 vs SSG 38승60패"
               }
             ],
-            "narrative": "SSG의 상대전적 우위 (키움 홈 승률 35%). 박빙으로 이변 가능."
+            "narrative": "박정훈(ERA 3.91) vs 타케다(4.04), 선발 대결에서 키움 우위. 박빙으로 이변 가능."
           },
           "actualHome": null,
           "actualAway": null,
@@ -17976,9 +17976,9 @@
           "awaySP": "비슬리",
           "homeSP": "에르난데스",
           "predWinner": "롯데",
-          "predHomePct": 47.5,
-          "predAwayPct": 50.3,
-          "avgHome": 4.9,
+          "predHomePct": 44.8,
+          "predAwayPct": 52.8,
+          "avgHome": 4.7,
           "avgAway": 5.4,
           "confidence": "★",
           "factors": {
@@ -18047,9 +18047,9 @@
           "awaySP": "보쉴리",
           "homeSP": "원태인",
           "predWinner": "KT",
-          "predHomePct": 42.8,
-          "predAwayPct": 55.1,
-          "avgHome": 4.1,
+          "predHomePct": 42.5,
+          "predAwayPct": 56,
+          "avgHome": 4,
           "avgAway": 5.4,
           "confidence": "★★",
           "factors": {
