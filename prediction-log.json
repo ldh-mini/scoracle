@@ -17752,7 +17752,7 @@
     },
     {
       "date": "2026-05-19",
-      "predictedAt": "2026-08-24T08:48:28.618Z",
+      "predictedAt": "2026-08-25T08:42:23.191Z",
       "version": "v9.6",
       "games": [
         {
@@ -17763,11 +17763,11 @@
           "awaySP": "테일러",
           "homeSP": "최민석",
           "predWinner": "두산",
-          "predHomePct": 54.4,
-          "predAwayPct": 41.7,
+          "predHomePct": 55,
+          "predAwayPct": 41.1,
           "avgHome": 3.3,
-          "avgAway": 2.6,
-          "confidence": "★",
+          "avgAway": 2.5,
+          "confidence": "★★",
           "factors": {
             "homeRating": 41,
             "awayRating": 40,
@@ -17820,7 +17820,7 @@
                 "desc": "두산 ? / NC ?"
               }
             ],
-            "narrative": "최민석(ERA 3.3) vs 테일러(3.82), 선발 대결에서 두산 우위. 박빙으로 이변 가능."
+            "narrative": "최민석(ERA 3.3) vs 테일러(3.82), 선발 대결에서 두산 우위."
           },
           "actualHome": null,
           "actualAway": null,
@@ -17834,10 +17834,10 @@
           "awaySP": "톨허스트",
           "homeSP": "올러",
           "predWinner": "KIA",
-          "predHomePct": 59.7,
-          "predAwayPct": 38.5,
-          "avgHome": 5.4,
-          "avgAway": 4,
+          "predHomePct": 55.6,
+          "predAwayPct": 41.8,
+          "avgHome": 5,
+          "avgAway": 4.2,
           "confidence": "★★",
           "factors": {
             "homeRating": 49,
@@ -17905,10 +17905,10 @@
           "awaySP": "타케다",
           "homeSP": "박정훈",
           "predWinner": "SSG",
-          "predHomePct": 47.8,
-          "predAwayPct": 49.4,
-          "avgHome": 3.7,
-          "avgAway": 4.1,
+          "predHomePct": 48.1,
+          "predAwayPct": 49.5,
+          "avgHome": 3.5,
+          "avgAway": 3.8,
           "confidence": "★",
           "factors": {
             "homeRating": 40,
@@ -17976,10 +17976,10 @@
           "awaySP": "비슬리",
           "homeSP": "에르난데스",
           "predWinner": "한화",
-          "predHomePct": 55.7,
-          "predAwayPct": 42.8,
-          "avgHome": 5.8,
-          "avgAway": 5.1,
+          "predHomePct": 55.9,
+          "predAwayPct": 41.9,
+          "avgHome": 5.9,
+          "avgAway": 4.9,
           "confidence": "★★",
           "factors": {
             "homeRating": 40,
@@ -18048,7 +18048,7 @@
           "homeSP": "원태인",
           "predWinner": "KT",
           "predHomePct": 47.9,
-          "predAwayPct": 50.6,
+          "predAwayPct": 50,
           "avgHome": 4.2,
           "avgAway": 4.7,
           "confidence": "★",
