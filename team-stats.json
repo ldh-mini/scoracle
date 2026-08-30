@@ -1,6 +1,6 @@
 {
   "crawlDate": "2026-08-30",
-  "crawlTime": "2026-08-30T02:44:46.282Z",
+  "crawlTime": "2026-08-30T13:36:42.168Z",
   "teams": {
     "samsung": {
       "teamKR": "삼성",
@@ -52,19 +52,19 @@
     },
     "doosan": {
       "teamKR": "두산",
-      "g": 116,
-      "w": 60,
+      "g": 117,
+      "w": 61,
       "l": 52,
       "t": 4,
-      "pct": 0.536,
-      "rs": 540,
-      "ra": 998,
-      "runDiff": -458,
-      "runDiffPerGame": -3.95,
-      "last10raw": "5승0무5패",
-      "last10pct": 0.5,
-      "streakRaw": "1승",
-      "streak": 1
+      "pct": 0.54,
+      "rs": 555,
+      "ra": 1010,
+      "runDiff": -455,
+      "runDiffPerGame": -3.89,
+      "last10raw": "6승0무4패",
+      "last10pct": 0.6,
+      "streakRaw": "2승",
+      "streak": 2
     },
     "kt": {
       "teamKR": "KT",
@@ -100,19 +100,19 @@
     },
     "hanwha": {
       "teamKR": "한화",
-      "g": 113,
+      "g": 114,
       "w": 49,
-      "l": 61,
+      "l": 62,
       "t": 3,
-      "pct": 0.445,
-      "rs": 644,
-      "ra": 829,
-      "runDiff": -185,
-      "runDiffPerGame": -1.64,
+      "pct": 0.441,
+      "rs": 651,
+      "ra": 834,
+      "runDiff": -183,
+      "runDiffPerGame": -1.61,
       "last10raw": "1승0무9패",
       "last10pct": 0.1,
-      "streakRaw": "5패",
-      "streak": -5
+      "streakRaw": "6패",
+      "streak": -6
     },
     "lotte": {
       "teamKR": "롯데",
@@ -132,35 +132,35 @@
     },
     "nc": {
       "teamKR": "NC",
-      "g": 110,
-      "w": 50,
+      "g": 111,
+      "w": 51,
       "l": 58,
       "t": 2,
-      "pct": 0.463,
-      "rs": 564,
-      "ra": 883,
-      "runDiff": -319,
-      "runDiffPerGame": -2.9,
-      "last10raw": "4승0무6패",
-      "last10pct": 0.4,
-      "streakRaw": "2승",
-      "streak": 2
+      "pct": 0.468,
+      "rs": 574,
+      "ra": 892,
+      "runDiff": -318,
+      "runDiffPerGame": -2.86,
+      "last10raw": "5승0무5패",
+      "last10pct": 0.5,
+      "streakRaw": "3승",
+      "streak": 3
     },
     "kiwoom": {
       "teamKR": "키움",
-      "g": 120,
+      "g": 121,
       "w": 42,
-      "l": 75,
+      "l": 76,
       "t": 3,
-      "pct": 0.359,
-      "rs": 469,
-      "ra": 876,
-      "runDiff": -407,
-      "runDiffPerGame": -3.39,
+      "pct": 0.356,
+      "rs": 470,
+      "ra": 881,
+      "runDiff": -411,
+      "runDiffPerGame": -3.4,
       "last10raw": "2승1무7패",
       "last10pct": 0.222,
-      "streakRaw": "3패",
-      "streak": -3
+      "streakRaw": "4패",
+      "streak": -4
     }
   }
 }
