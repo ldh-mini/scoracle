@@ -17752,7 +17752,7 @@
     },
     {
       "date": "2026-05-19",
-      "predictedAt": "2026-09-01T13:10:00.655Z",
+      "predictedAt": "2026-09-02T02:11:32.706Z",
       "version": "v9.6",
       "games": [
         {
@@ -17763,14 +17763,14 @@
           "awaySP": "테일러",
           "homeSP": "최민석",
           "predWinner": "두산",
-          "predHomePct": 62,
-          "predAwayPct": 35.3,
+          "predHomePct": 60.8,
+          "predAwayPct": 36.6,
           "avgHome": 4.5,
-          "avgAway": 2.8,
+          "avgAway": 3.1,
           "confidence": "★★",
           "factors": {
             "homeRating": 41,
-            "awayRating": 42,
+            "awayRating": 43,
             "homeSP": {
               "name": "최민석",
               "era": 3.27,
@@ -17784,7 +17784,7 @@
               "recentForm": 0.92
             },
             "homeRecord": "61승53패",
-            "awayRecord": "51승58패",
+            "awayRecord": "52승58패",
             "h2hWinRate": 50,
             "parkFactor": 0.9,
             "parkName": "잠실야구장",
@@ -17809,8 +17809,8 @@
                 "key": "rating",
                 "label": "팀 전력",
                 "edge": "away",
-                "impact": 0.002,
-                "desc": "두산 61승53패 vs NC 51승58패"
+                "impact": 0.004,
+                "desc": "두산 61승53패 vs NC 52승58패"
               },
               {
                 "key": "momentum",
@@ -17834,13 +17834,13 @@
           "awaySP": "톨허스트",
           "homeSP": "올러",
           "predWinner": "KIA",
-          "predHomePct": 57.9,
-          "predAwayPct": 40.9,
-          "avgHome": 5.6,
-          "avgAway": 4.4,
+          "predHomePct": 60.7,
+          "predAwayPct": 38,
+          "avgHome": 5.9,
+          "avgAway": 4.5,
           "confidence": "★★",
           "factors": {
-            "homeRating": 54,
+            "homeRating": 51,
             "awayRating": 52,
             "homeSP": {
               "name": "올러",
@@ -17854,7 +17854,7 @@
               "fip": 3.53,
               "recentForm": 0.92
             },
-            "homeRecord": "63승50패",
+            "homeRecord": "63승51패",
             "awayRecord": "65승51패",
             "h2hWinRate": 40,
             "parkFactor": 1.06,
@@ -17886,9 +17886,9 @@
               {
                 "key": "rating",
                 "label": "팀 전력",
-                "edge": "home",
-                "impact": 0.004,
-                "desc": "기아 63승50패 vs LG 65승51패"
+                "edge": "away",
+                "impact": 0.002,
+                "desc": "기아 63승51패 vs LG 65승51패"
               }
             ],
             "narrative": "올러(ERA 3.24) vs 톨허스트(4.43), 선발 대결에서 KIA 우위."
@@ -17905,10 +17905,10 @@
           "awaySP": "타케다",
           "homeSP": "박정훈",
           "predWinner": "키움",
-          "predHomePct": 49,
-          "predAwayPct": 47.3,
-          "avgHome": 3.6,
-          "avgAway": 3.8,
+          "predHomePct": 49.3,
+          "predAwayPct": 47.5,
+          "avgHome": 3.7,
+          "avgAway": 4,
           "confidence": "★",
           "factors": {
             "homeRating": 40,
@@ -17976,9 +17976,9 @@
           "awaySP": "비슬리",
           "homeSP": "에르난데스",
           "predWinner": "한화",
-          "predHomePct": 51.8,
-          "predAwayPct": 46.1,
-          "avgHome": 5.5,
+          "predHomePct": 49.3,
+          "predAwayPct": 49.2,
+          "avgHome": 5.2,
           "avgAway": 5.3,
           "confidence": "★",
           "factors": {
@@ -18047,13 +18047,13 @@
           "awaySP": "보쉴리",
           "homeSP": "원태인",
           "predWinner": "KT",
-          "predHomePct": 49.3,
+          "predHomePct": 48.5,
           "predAwayPct": 49.8,
-          "avgHome": 4.6,
-          "avgAway": 4.8,
+          "avgHome": 4.4,
+          "avgAway": 4.6,
           "confidence": "★",
           "factors": {
-            "homeRating": 59,
+            "homeRating": 58,
             "awayRating": 53,
             "homeSP": {
               "name": "원태인",
@@ -18086,7 +18086,7 @@
                 "key": "rating",
                 "label": "팀 전력",
                 "edge": "home",
-                "impact": 0.012,
+                "impact": 0.01,
                 "desc": "삼성 69승44패 vs KT 67승43패"
               },
               {
