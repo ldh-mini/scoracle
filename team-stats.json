@@ -1,22 +1,22 @@
 {
   "crawlDate": "2026-09-03",
-  "crawlTime": "2026-09-03T02:18:18.881Z",
+  "crawlTime": "2026-09-03T12:38:33.685Z",
   "teams": {
     "samsung": {
       "teamKR": "삼성",
-      "g": 117,
+      "g": 118,
       "w": 70,
-      "l": 44,
+      "l": 45,
       "t": 3,
-      "pct": 0.614,
+      "pct": 0.609,
       "rs": 683,
       "ra": 903,
       "runDiff": -220,
-      "runDiffPerGame": -1.88,
+      "runDiffPerGame": -1.86,
       "last10raw": "7승1무2패",
       "last10pct": 0.778,
-      "streakRaw": "7승",
-      "streak": 7
+      "streakRaw": "1패",
+      "streak": -1
     },
     "kia": {
       "teamKR": "KIA",
@@ -36,35 +36,35 @@
     },
     "lg": {
       "teamKR": "LG",
-      "g": 118,
-      "w": 66,
+      "g": 119,
+      "w": 67,
       "l": 51,
       "t": 1,
-      "pct": 0.564,
+      "pct": 0.568,
       "rs": 611,
       "ra": 790,
       "runDiff": -179,
-      "runDiffPerGame": -1.52,
+      "runDiffPerGame": -1.5,
       "last10raw": "7승0무3패",
       "last10pct": 0.7,
-      "streakRaw": "3승",
-      "streak": 3
+      "streakRaw": "4승",
+      "streak": 4
     },
     "doosan": {
       "teamKR": "두산",
-      "g": 119,
+      "g": 120,
       "w": 61,
-      "l": 54,
+      "l": 55,
       "t": 4,
-      "pct": 0.53,
+      "pct": 0.526,
       "rs": 557,
       "ra": 1022,
       "runDiff": -465,
-      "runDiffPerGame": -3.91,
+      "runDiffPerGame": -3.88,
       "last10raw": "4승0무6패",
       "last10pct": 0.4,
-      "streakRaw": "2패",
-      "streak": -2
+      "streakRaw": "3패",
+      "streak": -3
     },
     "kt": {
       "teamKR": "KT",
@@ -116,19 +116,19 @@
     },
     "lotte": {
       "teamKR": "롯데",
-      "g": 115,
-      "w": 50,
+      "g": 116,
+      "w": 51,
       "l": 63,
       "t": 2,
-      "pct": 0.442,
+      "pct": 0.447,
       "rs": 547,
       "ra": 929,
       "runDiff": -382,
-      "runDiffPerGame": -3.32,
+      "runDiffPerGame": -3.29,
       "last10raw": "4승0무6패",
       "last10pct": 0.4,
-      "streakRaw": "6패",
-      "streak": -6
+      "streakRaw": "1승",
+      "streak": 1
     },
     "nc": {
       "teamKR": "NC",
