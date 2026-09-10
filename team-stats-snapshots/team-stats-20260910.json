@@ -1,6 +1,6 @@
 {
   "crawlDate": "2026-09-10",
-  "crawlTime": "2026-09-10T02:21:13.391Z",
+  "crawlTime": "2026-09-10T12:44:23.740Z",
   "teams": {
     "samsung": {
       "teamKR": "삼성",
@@ -52,19 +52,19 @@
     },
     "doosan": {
       "teamKR": "두산",
-      "g": 125,
-      "w": 62,
+      "g": 126,
+      "w": 63,
       "l": 59,
       "t": 4,
-      "pct": 0.512,
+      "pct": 0.516,
       "rs": 576,
       "ra": 1076,
       "runDiff": -500,
-      "runDiffPerGame": -4,
+      "runDiffPerGame": -3.97,
       "last10raw": "3승0무7패",
       "last10pct": 0.3,
-      "streakRaw": "2패",
-      "streak": -2
+      "streakRaw": "1승",
+      "streak": 1
     },
     "kt": {
       "teamKR": "KT",
@@ -84,35 +84,35 @@
     },
     "ssg": {
       "teamKR": "SSG",
-      "g": 126,
-      "w": 53,
+      "g": 127,
+      "w": 54,
       "l": 68,
       "t": 5,
-      "pct": 0.438,
+      "pct": 0.443,
       "rs": 623,
       "ra": 958,
       "runDiff": -335,
-      "runDiffPerGame": -2.66,
+      "runDiffPerGame": -2.64,
       "last10raw": "6승0무4패",
       "last10pct": 0.6,
-      "streakRaw": "1승",
-      "streak": 1
+      "streakRaw": "2승",
+      "streak": 2
     },
     "hanwha": {
       "teamKR": "한화",
-      "g": 122,
+      "g": 123,
       "w": 54,
-      "l": 65,
+      "l": 66,
       "t": 3,
-      "pct": 0.454,
+      "pct": 0.45,
       "rs": 727,
       "ra": 887,
       "runDiff": -160,
-      "runDiffPerGame": -1.31,
+      "runDiffPerGame": -1.3,
       "last10raw": "5승0무5패",
       "last10pct": 0.5,
-      "streakRaw": "5승",
-      "streak": 5
+      "streakRaw": "1패",
+      "streak": -1
     },
     "lotte": {
       "teamKR": "롯데",
@@ -148,19 +148,19 @@
     },
     "kiwoom": {
       "teamKR": "키움",
-      "g": 128,
+      "g": 129,
       "w": 45,
-      "l": 80,
+      "l": 81,
       "t": 3,
-      "pct": 0.36,
+      "pct": 0.357,
       "rs": 493,
       "ra": 937,
       "runDiff": -444,
-      "runDiffPerGame": -3.47,
+      "runDiffPerGame": -3.44,
       "last10raw": "3승0무7패",
       "last10pct": 0.3,
-      "streakRaw": "2승",
-      "streak": 2
+      "streakRaw": "1패",
+      "streak": -1
     }
   }
 }
