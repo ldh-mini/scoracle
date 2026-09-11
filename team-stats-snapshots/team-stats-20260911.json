@@ -1,38 +1,38 @@
 {
   "crawlDate": "2026-09-11",
-  "crawlTime": "2026-09-11T02:16:35.672Z",
+  "crawlTime": "2026-09-11T12:39:08.149Z",
   "teams": {
     "samsung": {
       "teamKR": "삼성",
-      "g": 123,
-      "w": 73,
+      "g": 124,
+      "w": 74,
       "l": 47,
       "t": 3,
-      "pct": 0.608,
+      "pct": 0.612,
       "rs": 708,
       "ra": 944,
       "runDiff": -236,
-      "runDiffPerGame": -1.92,
+      "runDiffPerGame": -1.9,
       "last10raw": "7승0무3패",
       "last10pct": 0.7,
-      "streakRaw": "1패",
-      "streak": -1
+      "streakRaw": "1승",
+      "streak": 1
     },
     "kia": {
       "teamKR": "KIA",
-      "g": 123,
-      "w": 66,
+      "g": 124,
+      "w": 67,
       "l": 55,
       "t": 2,
-      "pct": 0.545,
+      "pct": 0.549,
       "rs": 663,
       "ra": 890,
       "runDiff": -227,
-      "runDiffPerGame": -1.85,
+      "runDiffPerGame": -1.83,
       "last10raw": "5승0무5패",
       "last10pct": 0.5,
-      "streakRaw": "3패",
-      "streak": -3
+      "streakRaw": "1승",
+      "streak": 1
     },
     "lg": {
       "teamKR": "LG",
@@ -84,19 +84,19 @@
     },
     "ssg": {
       "teamKR": "SSG",
-      "g": 127,
+      "g": 128,
       "w": 54,
-      "l": 68,
+      "l": 69,
       "t": 5,
-      "pct": 0.443,
+      "pct": 0.439,
       "rs": 627,
       "ra": 966,
       "runDiff": -339,
-      "runDiffPerGame": -2.67,
+      "runDiffPerGame": -2.65,
       "last10raw": "6승0무4패",
       "last10pct": 0.6,
-      "streakRaw": "2승",
-      "streak": 2
+      "streakRaw": "1패",
+      "streak": -1
     },
     "hanwha": {
       "teamKR": "한화",
@@ -148,19 +148,19 @@
     },
     "kiwoom": {
       "teamKR": "키움",
-      "g": 129,
+      "g": 130,
       "w": 45,
-      "l": 81,
+      "l": 82,
       "t": 3,
-      "pct": 0.357,
+      "pct": 0.354,
       "rs": 493,
       "ra": 940,
       "runDiff": -447,
-      "runDiffPerGame": -3.47,
+      "runDiffPerGame": -3.44,
       "last10raw": "3승0무7패",
       "last10pct": 0.3,
-      "streakRaw": "1패",
-      "streak": -1
+      "streakRaw": "2패",
+      "streak": -2
     }
   }
 }
