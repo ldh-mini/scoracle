@@ -17752,7 +17752,7 @@
     },
     {
       "date": "2026-05-19",
-      "predictedAt": "2026-09-15T13:12:00.459Z",
+      "predictedAt": "2026-09-16T02:37:01.213Z",
       "version": "v9.6",
       "games": [
         {
@@ -17763,11 +17763,11 @@
           "awaySP": "테일러",
           "homeSP": "최민석",
           "predWinner": "두산",
-          "predHomePct": 54.5,
-          "predAwayPct": 42.5,
-          "avgHome": 4.4,
-          "avgAway": 3.6,
-          "confidence": "★",
+          "predHomePct": 58.5,
+          "predAwayPct": 39.5,
+          "avgHome": 4.5,
+          "avgAway": 3.4,
+          "confidence": "★★",
           "factors": {
             "homeRating": 40,
             "awayRating": 41,
@@ -17820,7 +17820,7 @@
                 "desc": "두산 ? / NC ?"
               }
             ],
-            "narrative": "최민석(ERA 3.43) vs 테일러(3.83), 선발 대결에서 두산 우위. 박빙으로 이변 가능."
+            "narrative": "최민석(ERA 3.43) vs 테일러(3.83), 선발 대결에서 두산 우위."
           },
           "actualHome": null,
           "actualAway": null,
@@ -17834,9 +17834,9 @@
           "awaySP": "톨허스트",
           "homeSP": "올러",
           "predWinner": "KIA",
-          "predHomePct": 60.6,
-          "predAwayPct": 37.6,
-          "avgHome": 5.9,
+          "predHomePct": 59.9,
+          "predAwayPct": 38.2,
+          "avgHome": 5.7,
           "avgAway": 4.2,
           "confidence": "★★",
           "factors": {
@@ -17905,10 +17905,10 @@
           "awaySP": "타케다",
           "homeSP": "박정훈",
           "predWinner": "SSG",
-          "predHomePct": 45.5,
-          "predAwayPct": 51.6,
-          "avgHome": 3.8,
-          "avgAway": 4.3,
+          "predHomePct": 47.7,
+          "predAwayPct": 49.2,
+          "avgHome": 3.7,
+          "avgAway": 4.1,
           "confidence": "★",
           "factors": {
             "homeRating": 40,
@@ -17976,10 +17976,10 @@
           "awaySP": "비슬리",
           "homeSP": "에르난데스",
           "predWinner": "한화",
-          "predHomePct": 59.3,
-          "predAwayPct": 39.5,
+          "predHomePct": 60,
+          "predAwayPct": 38.6,
           "avgHome": 6.6,
-          "avgAway": 5.2,
+          "avgAway": 5,
           "confidence": "★★",
           "factors": {
             "homeRating": 40,
@@ -17997,7 +17997,7 @@
               "recentForm": 0.92
             },
             "homeRecord": "54승69패",
-            "awayRecord": "53승69패",
+            "awayRecord": "53승70패",
             "h2hWinRate": 63,
             "parkFactor": 1.02,
             "parkName": "대전한화생명볼파크",
@@ -18047,13 +18047,13 @@
           "awaySP": "보쉴리",
           "homeSP": "원태인",
           "predWinner": "KT",
-          "predHomePct": 45,
-          "predAwayPct": 53.1,
-          "avgHome": 4,
-          "avgAway": 4.9,
-          "confidence": "★",
+          "predHomePct": 42.6,
+          "predAwayPct": 55.9,
+          "avgHome": 3.8,
+          "avgAway": 5,
+          "confidence": "★★",
           "factors": {
-            "homeRating": 52,
+            "homeRating": 53,
             "awayRating": 57,
             "homeSP": {
               "name": "원태인",
@@ -18067,7 +18067,7 @@
               "fip": 3.66,
               "recentForm": 1.08
             },
-            "homeRecord": "74승49패",
+            "homeRecord": "75승49패",
             "awayRecord": "76승46패",
             "h2hWinRate": 50,
             "parkFactor": 0.9,
@@ -18083,18 +18083,18 @@
                 "desc": "보쉴리(ERA 2.8) vs 원태인(3.24)"
               },
               {
-                "key": "rating",
-                "label": "팀 전력",
-                "edge": "away",
-                "impact": 0.01,
-                "desc": "삼성 74승49패 vs KT 76승46패"
-              },
-              {
                 "key": "park",
                 "label": "구장 효과",
                 "edge": "away",
                 "impact": 0.01,
                 "desc": "잠실야구장 투수 유리(0.9)"
+              },
+              {
+                "key": "rating",
+                "label": "팀 전력",
+                "edge": "away",
+                "impact": 0.008,
+                "desc": "삼성 75승49패 vs KT 76승46패"
               },
               {
                 "key": "momentum",
@@ -18104,7 +18104,7 @@
                 "desc": "삼성 ? / KT ?"
               }
             ],
-            "narrative": "보쉴리(ERA 2.8) vs 원태인(3.24), 선발 대결에서 KT 우위. 박빙으로 이변 가능."
+            "narrative": "보쉴리(ERA 2.8) vs 원태인(3.24), 선발 대결에서 KT 우위."
           },
           "actualHome": null,
           "actualAway": null,
