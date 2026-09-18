@@ -17752,7 +17752,7 @@
     },
     {
       "date": "2026-05-19",
-      "predictedAt": "2026-09-18T02:29:05.246Z",
+      "predictedAt": "2026-09-18T12:45:39.086Z",
       "version": "v9.6",
       "games": [
         {
@@ -17763,8 +17763,8 @@
           "awaySP": "테일러",
           "homeSP": "최민석",
           "predWinner": "NC",
-          "predHomePct": 46.8,
-          "predAwayPct": 49.7,
+          "predHomePct": 47.2,
+          "predAwayPct": 49.9,
           "avgHome": 3.3,
           "avgAway": 3.6,
           "confidence": "★",
@@ -17784,7 +17784,7 @@
               "recentForm": 1.08
             },
             "homeRecord": "65승60패",
-            "awayRecord": "59승64패",
+            "awayRecord": "59승65패",
             "h2hWinRate": 50,
             "parkFactor": 0.9,
             "parkName": "잠실야구장",
@@ -17817,7 +17817,7 @@
                 "label": "팀 전력",
                 "edge": "home",
                 "impact": 0,
-                "desc": "두산 65승60패 vs NC 59승64패"
+                "desc": "두산 65승60패 vs NC 59승65패"
               }
             ],
             "narrative": "잠실야구장 홈 구장 효과가 NC에게 유리. 박빙으로 이변 가능."
@@ -17834,10 +17834,10 @@
           "awaySP": "톨허스트",
           "homeSP": "올러",
           "predWinner": "KIA",
-          "predHomePct": 63.4,
-          "predAwayPct": 35.1,
-          "avgHome": 6,
-          "avgAway": 4.2,
+          "predHomePct": 58.8,
+          "predAwayPct": 39.3,
+          "avgHome": 5.7,
+          "avgAway": 4.5,
           "confidence": "★★",
           "factors": {
             "homeRating": 48,
@@ -17905,9 +17905,9 @@
           "awaySP": "타케다",
           "homeSP": "박정훈",
           "predWinner": "키움",
-          "predHomePct": 48.5,
-          "predAwayPct": 48.5,
-          "avgHome": 3.7,
+          "predHomePct": 48.8,
+          "predAwayPct": 48.8,
+          "avgHome": 3.9,
           "avgAway": 4,
           "confidence": "★",
           "factors": {
@@ -17976,10 +17976,10 @@
           "awaySP": "비슬리",
           "homeSP": "에르난데스",
           "predWinner": "한화",
-          "predHomePct": 61,
-          "predAwayPct": 37.4,
-          "avgHome": 6.6,
-          "avgAway": 4.9,
+          "predHomePct": 57.8,
+          "predAwayPct": 40.2,
+          "avgHome": 6.3,
+          "avgAway": 5.1,
           "confidence": "★★",
           "factors": {
             "homeRating": 40,
@@ -17997,7 +17997,7 @@
               "recentForm": 0.92
             },
             "homeRecord": "54승69패",
-            "awayRecord": "53승71패",
+            "awayRecord": "54승71패",
             "h2hWinRate": 63,
             "parkFactor": 1.02,
             "parkName": "대전한화생명볼파크",
@@ -18047,9 +18047,9 @@
           "awaySP": "보쉴리",
           "homeSP": "원태인",
           "predWinner": "KT",
-          "predHomePct": 44.2,
-          "predAwayPct": 54.5,
-          "avgHome": 3.8,
+          "predHomePct": 43.8,
+          "predAwayPct": 54.6,
+          "avgHome": 3.9,
           "avgAway": 4.8,
           "confidence": "★",
           "factors": {
