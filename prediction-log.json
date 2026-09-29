@@ -17752,7 +17752,7 @@
     },
     {
       "date": "2026-05-19",
-      "predictedAt": "2026-09-29T03:30:30.911Z",
+      "predictedAt": "2026-09-29T14:40:24.869Z",
       "version": "v9.6",
       "games": [
         {
@@ -17763,10 +17763,10 @@
           "awaySP": "테일러",
           "homeSP": "최민석",
           "predWinner": "NC",
-          "predHomePct": 42.7,
-          "predAwayPct": 54.1,
-          "avgHome": 3.3,
-          "avgAway": 4.3,
+          "predHomePct": 42.8,
+          "predAwayPct": 54.9,
+          "avgHome": 3.4,
+          "avgAway": 4.4,
           "confidence": "★",
           "factors": {
             "homeRating": 41,
@@ -17783,8 +17783,8 @@
               "fip": 3.52,
               "recentForm": 1.08
             },
-            "homeRecord": "67승63패",
-            "awayRecord": "62승70패",
+            "homeRecord": "68승63패",
+            "awayRecord": "62승71패",
             "h2hWinRate": 50,
             "parkFactor": 0.9,
             "parkName": "잠실야구장",
@@ -17810,7 +17810,7 @@
                 "label": "팀 전력",
                 "edge": "home",
                 "impact": 0.002,
-                "desc": "두산 67승63패 vs NC 62승70패"
+                "desc": "두산 68승63패 vs NC 62승71패"
               },
               {
                 "key": "momentum",
@@ -17834,14 +17834,14 @@
           "awaySP": "톨허스트",
           "homeSP": "올러",
           "predWinner": "KIA",
-          "predHomePct": 59.3,
-          "predAwayPct": 39.4,
+          "predHomePct": 58.3,
+          "predAwayPct": 40.3,
           "avgHome": 5.7,
           "avgAway": 4.5,
           "confidence": "★★",
           "factors": {
             "homeRating": 49,
-            "awayRating": 52,
+            "awayRating": 50,
             "homeSP": {
               "name": "올러",
               "era": 3.2412500000000004,
@@ -17850,12 +17850,12 @@
             },
             "awaySP": {
               "name": "톨허스트",
-              "era": 4.23125,
-              "fip": 3.41,
-              "recentForm": 0.92
+              "era": 4.278124999999999,
+              "fip": 3.39,
+              "recentForm": 0.94
             },
-            "homeRecord": "72승58패",
-            "awayRecord": "75승57패",
+            "homeRecord": "72승59패",
+            "awayRecord": "75승58패",
             "h2hWinRate": 40,
             "parkFactor": 1.06,
             "parkName": "광주기아챔피언스필드",
@@ -17866,8 +17866,8 @@
                 "key": "sp",
                 "label": "선발투수",
                 "edge": "home",
-                "impact": 0.04,
-                "desc": "올러(ERA 3.24) vs 톨허스트(4.23)"
+                "impact": 0.041,
+                "desc": "올러(ERA 3.24) vs 톨허스트(4.28)"
               },
               {
                 "key": "h2h",
@@ -17887,11 +17887,11 @@
                 "key": "rating",
                 "label": "팀 전력",
                 "edge": "away",
-                "impact": 0.006,
-                "desc": "기아 72승58패 vs LG 75승57패"
+                "impact": 0.002,
+                "desc": "기아 72승59패 vs LG 75승58패"
               }
             ],
-            "narrative": "올러(ERA 3.24) vs 톨허스트(4.23), 선발 대결에서 KIA 우위."
+            "narrative": "올러(ERA 3.24) vs 톨허스트(4.28), 선발 대결에서 KIA 우위."
           },
           "actualHome": null,
           "actualAway": null,
@@ -17905,14 +17905,14 @@
           "awaySP": "타케다",
           "homeSP": "박정훈",
           "predWinner": "SSG",
-          "predHomePct": 48.4,
-          "predAwayPct": 48.8,
+          "predHomePct": 47.2,
+          "predAwayPct": 50.6,
           "avgHome": 3.6,
-          "avgAway": 4,
+          "avgAway": 4.1,
           "confidence": "★",
           "factors": {
             "homeRating": 40,
-            "awayRating": 41,
+            "awayRating": 42,
             "homeSP": {
               "name": "박정훈",
               "era": 3.9125,
@@ -17925,8 +17925,8 @@
               "fip": 3.46,
               "recentForm": 1
             },
-            "homeRecord": "47승86패",
-            "awayRecord": "58승71패",
+            "homeRecord": "47승87패",
+            "awayRecord": "59승71패",
             "h2hWinRate": 35,
             "parkFactor": 0.92,
             "parkName": "고척스카이돔",
@@ -17958,8 +17958,8 @@
                 "key": "rating",
                 "label": "팀 전력",
                 "edge": "away",
-                "impact": 0.002,
-                "desc": "키움 47승86패 vs SSG 58승71패"
+                "impact": 0.004,
+                "desc": "키움 47승87패 vs SSG 59승71패"
               }
             ],
             "narrative": "SSG의 상대전적 우위 (키움 홈 승률 35%). 박빙으로 이변 가능."
@@ -17977,13 +17977,13 @@
           "homeSP": "에르난데스",
           "predWinner": "한화",
           "predHomePct": 54.6,
-          "predAwayPct": 44,
+          "predAwayPct": 43.2,
           "avgHome": 5.9,
-          "avgAway": 5.3,
+          "avgAway": 5.2,
           "confidence": "★",
           "factors": {
             "homeRating": 40,
-            "awayRating": 41,
+            "awayRating": 42,
             "homeSP": {
               "name": "에르난데스",
               "era": 3.8154999999999997,
@@ -17996,8 +17996,8 @@
               "fip": 3.51,
               "recentForm": 0.92
             },
-            "homeRecord": "55승76패",
-            "awayRecord": "59승72패",
+            "homeRecord": "55승77패",
+            "awayRecord": "60승72패",
             "h2hWinRate": 63,
             "parkFactor": 1.02,
             "parkName": "대전한화생명볼파크",
@@ -18012,18 +18012,18 @@
                 "desc": "한화 홈 승률 63%"
               },
               {
+                "key": "rating",
+                "label": "팀 전력",
+                "edge": "away",
+                "impact": 0.004,
+                "desc": "한화 55승77패 vs 롯데 60승72패"
+              },
+              {
                 "key": "park",
                 "label": "구장 효과",
                 "edge": "home",
                 "impact": 0.002,
                 "desc": "대전한화생명볼파크 중립(1.02)"
-              },
-              {
-                "key": "rating",
-                "label": "팀 전력",
-                "edge": "away",
-                "impact": 0.002,
-                "desc": "한화 55승76패 vs 롯데 59승72패"
               },
               {
                 "key": "sp",
@@ -18047,13 +18047,13 @@
           "awaySP": "보쉴리",
           "homeSP": "원태인",
           "predWinner": "KT",
-          "predHomePct": 47.3,
-          "predAwayPct": 51.1,
-          "avgHome": 4.6,
+          "predHomePct": 44.7,
+          "predAwayPct": 53.3,
+          "avgHome": 4.4,
           "avgAway": 5.2,
           "confidence": "★",
           "factors": {
-            "homeRating": 52,
+            "homeRating": 55,
             "awayRating": 55,
             "homeSP": {
               "name": "원태인",
@@ -18067,8 +18067,8 @@
               "fip": 3.66,
               "recentForm": 1.08
             },
-            "homeRecord": "78승52패",
-            "awayRecord": "81승49패",
+            "homeRecord": "79승52패",
+            "awayRecord": "82승49패",
             "h2hWinRate": 50,
             "parkFactor": 0.9,
             "parkName": "잠실야구장",
@@ -18090,18 +18090,18 @@
                 "desc": "잠실야구장 투수 유리(0.9)"
               },
               {
-                "key": "rating",
-                "label": "팀 전력",
-                "edge": "away",
-                "impact": 0.006,
-                "desc": "삼성 78승52패 vs KT 81승49패"
-              },
-              {
                 "key": "momentum",
                 "label": "최근 폼",
                 "edge": "home",
                 "impact": 0,
                 "desc": "삼성 ? / KT ?"
+              },
+              {
+                "key": "rating",
+                "label": "팀 전력",
+                "edge": "home",
+                "impact": 0,
+                "desc": "삼성 79승52패 vs KT 82승49패"
               }
             ],
             "narrative": "보쉴리(ERA 2.8) vs 원태인(3.24), 선발 대결에서 KT 우위. 박빙으로 이변 가능."
