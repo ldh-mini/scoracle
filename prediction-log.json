@@ -17752,7 +17752,7 @@
     },
     {
       "date": "2026-05-19",
-      "predictedAt": "2026-10-06T14:47:22.737Z",
+      "predictedAt": "2026-10-07T03:32:50.959Z",
       "version": "v9.6",
       "games": [
         {
@@ -17763,19 +17763,19 @@
           "awaySP": "테일러",
           "homeSP": "최민석",
           "predWinner": "NC",
-          "predHomePct": 37.2,
-          "predAwayPct": 60,
-          "avgHome": 3.3,
-          "avgAway": 5.2,
+          "predHomePct": 42.3,
+          "predAwayPct": 55.2,
+          "avgHome": 3.1,
+          "avgAway": 4.2,
           "confidence": "★★",
           "factors": {
             "homeRating": 46,
             "awayRating": 40,
             "homeSP": {
               "name": "최민석",
-              "era": 3.55,
+              "era": 3.3899999999999997,
               "fip": 3.67,
-              "recentForm": 0.92
+              "recentForm": 1
             },
             "awaySP": {
               "name": "테일러",
@@ -17792,6 +17792,13 @@
             "awayMomentum": 0,
             "topFactors": [
               {
+                "key": "sp",
+                "label": "선발투수",
+                "edge": "home",
+                "impact": 0.016,
+                "desc": "최민석(ERA 3.39) vs 테일러(3.78)"
+              },
+              {
                 "key": "rating",
                 "label": "팀 전력",
                 "edge": "home",
@@ -17804,13 +17811,6 @@
                 "edge": "away",
                 "impact": 0.01,
                 "desc": "잠실야구장 투수 유리(0.9)"
-              },
-              {
-                "key": "sp",
-                "label": "선발투수",
-                "edge": "home",
-                "impact": 0.009,
-                "desc": "최민석(ERA 3.55) vs 테일러(3.78)"
               },
               {
                 "key": "momentum",
@@ -17834,10 +17834,10 @@
           "awaySP": "톨허스트",
           "homeSP": "올러",
           "predWinner": "KIA",
-          "predHomePct": 60.2,
-          "predAwayPct": 37.7,
-          "avgHome": 6,
-          "avgAway": 4.4,
+          "predHomePct": 58.5,
+          "predAwayPct": 40,
+          "avgHome": 5.6,
+          "avgAway": 4.3,
           "confidence": "★★",
           "factors": {
             "homeRating": 48,
@@ -17904,11 +17904,11 @@
           "time": "18:30",
           "awaySP": "타케다",
           "homeSP": "박정훈",
-          "predWinner": "SSG",
-          "predHomePct": 48.5,
-          "predAwayPct": 49.2,
+          "predWinner": "키움",
+          "predHomePct": 49.6,
+          "predAwayPct": 47.2,
           "avgHome": 3.8,
-          "avgAway": 4.1,
+          "avgAway": 3.8,
           "confidence": "★",
           "factors": {
             "homeRating": 40,
@@ -17962,7 +17962,7 @@
                 "desc": "키움 49승90패 vs SSG 63승73패"
               }
             ],
-            "narrative": "SSG의 상대전적 우위 (키움 홈 승률 35%). 박빙으로 이변 가능."
+            "narrative": "박정훈(ERA 3.91) vs 타케다(4.04), 선발 대결에서 키움 우위. 박빙으로 이변 가능."
           },
           "actualHome": null,
           "actualAway": null,
@@ -17976,10 +17976,10 @@
           "awaySP": "비슬리",
           "homeSP": "에르난데스",
           "predWinner": "한화",
-          "predHomePct": 49.3,
-          "predAwayPct": 49.3,
-          "avgHome": 5.2,
-          "avgAway": 5.4,
+          "predHomePct": 49,
+          "predAwayPct": 48.7,
+          "avgHome": 5.1,
+          "avgAway": 5.2,
           "confidence": "★",
           "factors": {
             "homeRating": 40,
@@ -18046,10 +18046,10 @@
           "time": "18:30",
           "awaySP": "보쉴리",
           "homeSP": "원태인",
-          "predWinner": "KT",
-          "predHomePct": 48.9,
-          "predAwayPct": 50.2,
-          "avgHome": 4.8,
+          "predWinner": "삼성",
+          "predHomePct": 50,
+          "predAwayPct": 48.6,
+          "avgHome": 4.7,
           "avgAway": 5,
           "confidence": "★",
           "factors": {
@@ -18104,7 +18104,7 @@
                 "desc": "삼성 ? / KT ?"
               }
             ],
-            "narrative": "보쉴리(ERA 2.8) vs 원태인(3.24), 선발 대결에서 KT 우위. 박빙으로 이변 가능."
+            "narrative": "삼성의 최근 상승세가 핵심 (삼성 ? / KT ?). 박빙으로 이변 가능."
           },
           "actualHome": null,
           "actualAway": null,
