@@ -17752,7 +17752,7 @@
     },
     {
       "date": "2026-05-19",
-      "predictedAt": "2026-10-10T14:16:57.076Z",
+      "predictedAt": "2026-10-11T03:09:30.929Z",
       "version": "v9.6",
       "games": [
         {
@@ -17763,10 +17763,10 @@
           "awaySP": "테일러",
           "homeSP": "최민석",
           "predWinner": "NC",
-          "predHomePct": 41.4,
-          "predAwayPct": 56.1,
-          "avgHome": 3.4,
-          "avgAway": 4.7,
+          "predHomePct": 41.1,
+          "predAwayPct": 56.9,
+          "avgHome": 3.3,
+          "avgAway": 4.6,
           "confidence": "★★",
           "factors": {
             "homeRating": 43,
@@ -17834,11 +17834,11 @@
           "awaySP": "톨허스트",
           "homeSP": "올러",
           "predWinner": "KIA",
-          "predHomePct": 59.7,
-          "predAwayPct": 38.3,
-          "avgHome": 6,
-          "avgAway": 4.4,
-          "confidence": "★★",
+          "predHomePct": 54.8,
+          "predAwayPct": 43.8,
+          "avgHome": 4.6,
+          "avgAway": 4.2,
+          "confidence": "★",
           "factors": {
             "homeRating": 52,
             "awayRating": 47,
@@ -17850,9 +17850,9 @@
             },
             "awaySP": {
               "name": "톨허스트",
-              "era": 4.25,
-              "fip": 3.47,
-              "recentForm": 0.92
+              "era": 3.9968749999999997,
+              "fip": 3.48,
+              "recentForm": 1.08
             },
             "homeRecord": "78승62패",
             "awayRecord": "78승64패",
@@ -17866,8 +17866,8 @@
                 "key": "sp",
                 "label": "선발투수",
                 "edge": "home",
-                "impact": 0.04,
-                "desc": "올러(ERA 3.24) vs 톨허스트(4.25)"
+                "impact": 0.03,
+                "desc": "올러(ERA 3.24) vs 톨허스트(4)"
               },
               {
                 "key": "h2h",
@@ -17891,7 +17891,7 @@
                 "desc": "광주기아챔피언스필드 타자 유리(1.06)"
               }
             ],
-            "narrative": "올러(ERA 3.24) vs 톨허스트(4.25), 선발 대결에서 KIA 우위."
+            "narrative": "올러(ERA 3.24) vs 톨허스트(4), 선발 대결에서 KIA 우위. 박빙으로 이변 가능."
           },
           "actualHome": null,
           "actualAway": null,
@@ -17904,11 +17904,11 @@
           "time": "18:30",
           "awaySP": "타케다",
           "homeSP": "박정훈",
-          "predWinner": "키움",
-          "predHomePct": 51.3,
-          "predAwayPct": 45.9,
+          "predWinner": "SSG",
+          "predHomePct": 47.9,
+          "predAwayPct": 49.7,
           "avgHome": 3.7,
-          "avgAway": 3.8,
+          "avgAway": 3.9,
           "confidence": "★",
           "factors": {
             "homeRating": 40,
@@ -17962,7 +17962,7 @@
                 "desc": "키움 50승90패 vs SSG 65승74패"
               }
             ],
-            "narrative": "박정훈(ERA 3.91) vs 타케다(4.04), 선발 대결에서 키움 우위. 박빙으로 이변 가능."
+            "narrative": "SSG의 상대전적 우위 (키움 홈 승률 35%). 박빙으로 이변 가능."
           },
           "actualHome": null,
           "actualAway": null,
@@ -17976,10 +17976,10 @@
           "awaySP": "비슬리",
           "homeSP": "에르난데스",
           "predWinner": "한화",
-          "predHomePct": 49.1,
-          "predAwayPct": 48.5,
+          "predHomePct": 50.6,
+          "predAwayPct": 47.3,
           "avgHome": 5.1,
-          "avgAway": 5.2,
+          "avgAway": 4.9,
           "confidence": "★",
           "factors": {
             "homeRating": 40,
@@ -18048,8 +18048,8 @@
           "homeSP": "원태인",
           "predWinner": "KT",
           "predHomePct": 48.8,
-          "predAwayPct": 49.6,
-          "avgHome": 4.8,
+          "predAwayPct": 49.8,
+          "avgHome": 4.6,
           "avgAway": 5.1,
           "confidence": "★",
           "factors": {
